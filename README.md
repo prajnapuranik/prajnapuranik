@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajnapuranik
 - 👀 I’m interested in full stack development with java and springboot as backend
-- 🌱 I’m currently learning javascript and node.js
+- 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on spring projects 
 - 📫 How to reach me: prajnagp@gmail.com 
 
